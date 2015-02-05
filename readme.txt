@@ -1,9 +1,9 @@
 === Change Author Link Structure ===
-Contributors: 204802 
+Contributors: wpyb
 Tags: author, permalink, username, id, url
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,3 +24,5 @@ In case the page is invoked with the default permalink structure, it is displaye
 
 = 0.1 =
 First release
+= 0.1.1 =
+Readme Update

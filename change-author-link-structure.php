@@ -3,9 +3,9 @@
 Plugin Name: Change Author Link Structure
 Plugin URI: https://wordpress.org/plugins/change-author-link-structure/ 
 Description: To prevent that usernames are publically visible, the username in the author's permalink is replaced with the author's ID.  
-Version: 0.1
+Version: 0.1.1
 Author: Yvonne Breuer
-License: GPL2 
+License: GPL2 or later
 */
 
 /*
