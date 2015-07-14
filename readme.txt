@@ -2,8 +2,8 @@
 Contributors: wpyb
 Tags: author, permalink, username, id, url
 Requires at least: 4.0
-Tested up to: 4.1
-Stable tag: 0.1.1
+Tested up to: 4.2
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,3 +26,5 @@ In case the page is invoked with the default permalink structure, it is displaye
 First release
 = 0.1.1 =
 Readme Update
+= 0.1.2 =
+Tested up to 4.2
